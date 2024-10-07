@@ -23,8 +23,6 @@ This line graph shows Airbnb revenue over the course of a year, split up by week
 
 ## Files
 - `airbnb_project.twbx`: This Tableau Packaged Workbook contains all the visualizations and the underlying data used for analysis.
-- `seattleairbnblistings.xlsx`: The cleaned dataset with details on Airbnb listings such as prices, number of bedrooms, and zip codes.
 
 ## How to Use
 1. Download the `airbnb_project.twbx` file to open in Tableau for interactive exploration of the visualizations.
-2. The dataset `seattleairbnblistings.xlsx` is available for any further analysis.
